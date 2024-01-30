@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruiyang Jin"
 title_separator          : "-"
 name                     : &name "Ruiyang Jin"
-description              : &description "PH.D Student at Peking University"
+description              : &description "Ruiyang's website"
 url                      : https://ryjin66.github.io/ryjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryjin66/ryjin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruiyang Jin (金瑞杨)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D Student at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
