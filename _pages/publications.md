@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -15,6 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+-->
+## Ongoing Work
+1. [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372)
+2. Jin R, Chen, Z, Lin Y, Song J, Adam W. Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. Submitted to ICML 2024. 
+
 
 ## Journal Paper
-1. [Wang, P., Wang, J., Jin, R., Li, G., Zhou, M., & Xia, Q. (2022). Integrating biogas in regional energy systems to achieve near-zero carbon emissions. Applied Energy, 322, 119515.](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
+1. [Jin, R., Zhou, Y., Lu, C., & Song, J. (2022). Deep reinforcement learning-based strategy for charging station participating in demand response. Applied Energy, 328, 120140.](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
+2. [Wang, P., Wang, J., Jin, R., Li, G., Zhou, M., & Xia, Q. (2022). Integrating biogas in regional energy systems to achieve near-zero carbon emissions. Applied Energy, 322, 119515.](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
+3. [Zhang, T., Wang, J., Wang, H., Ruiyang, J., Li, G., & Zhou, M. (2022). On the coordination of transmission-distribution grids: A dynamic feasible region method. IEEE Transactions on Power Systems, 38(2), 1855-1866.](https://ieeexplore.ieee.org/abstract/document/9852714?casa_token=gfCtJmKDqSEAAAAA:7OrqfopSEH54R2bKU7mHI0wIV1EmmvKLfRnKuemgwrHRzdc_fkxcYk3vpPKUk8fyVgCSV4Y)
+4. [Jin, R., Lu, C., & Song, J. (2020). Manage distributed energy storage charging and discharging strategy: Models and algorithms. IEEE Transactions on Engineering Management, 69(3), 755-764.](https://ieeexplore.ieee.org/abstract/document/9160967?casa_token=x7UGOYnuYtoAAAAA:HWLlTMT5ucoiLkCO8OCMJHTAvxJH-faN7KAmnXFhcVxXNYtdJi65qXvmmsZ_IRFuIJxbFe0)
+5. [Jin, R., Song, J., Liu, J., Li, W., & Lu, C. (2020). Location and capacity optimization of distributed energy storage system in peak-shaving. Energies, 13(3), 513.](https://www.mdpi.com/1996-1073/13/3/513)
+
+
+## Conference Proceeding
+1. [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
+2. Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
+3. [Zhou, Y., Jin, R., & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) (pp. 916-921). IEEE.](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
