@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Dec 2022-Dec 2023: Visiting scholar
+* Dec. 2022-Dec. 2023: Visiting scholar
   * California Institute of Technology 
 
-* Sep 2024-July 2025: Postdoc (Expected)
+* Sep. 2024-Jul. 2025: Postdoc (Expected)
   
 <!--
 Publications
@@ -40,6 +40,7 @@ Teaching
 ======
 * Teaching Assistant at PKU: Simulation and Modelling in 2021 Fall
 * Teaching Assistant at PKU: Applied Statistics in 2020 spring
+
 <!--
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
