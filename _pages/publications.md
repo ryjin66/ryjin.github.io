@@ -18,7 +18,7 @@ author_profile: true
 -->
 ## Ongoing Work
 1. [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372)
-2. Jin R, Chen, Z, Lin Y, Song J, Adam W. Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. Submitted to ICML 2024. 
+2. [Jin, R., Chen, Z., Lin, Y., Song, J., Adam, W. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811)
 
 
 ## Journal Paper
