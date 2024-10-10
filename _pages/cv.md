@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.E. in aerospace engineering, Peking University, 2019
-* Ph.D in management science and engineering, Peking University, 2024 (Expected)
+* B.E. in Aerospace Engineering, Peking University, 2019
+* Ph.D in Management Science and Engineering, Peking University, 2024
 
 Work experience
 ======
 * Dec. 2022-Dec. 2023: Visiting scholar
   * California Institute of Technology 
 
-* Sep. 2024-Jul. 2025: Postdoc (Expected)
+* Sep. 2024-Jul. 2025: Postdoc fellow
   
 <!--
 Publications
