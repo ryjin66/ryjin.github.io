@@ -20,6 +20,7 @@ Work experience
   * California Institute of Technology 
 
 * Sep. 2024-Jul. 2025: Postdoc fellow
+  * City University of Hong Kong
   
 <!--
 Publications
