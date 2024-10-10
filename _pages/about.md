@@ -14,6 +14,6 @@ I am currently a postdoctoral fellow in the Department of Systems Engineering at
 My research interests lie in the **modeling and optimization of multi-agent systems**. The techniques mainly include multi-agent reinforcement learning, zeroth-order optimization, and simulation-based optimization. The applications include demand side management, renewable energy integration, and energy storage planning & operation in low-carbon energy systems.
 
 ## Contact Me
-Email: jry@pku.edu.cn
+Email: ruiyajin@cityu.edu.hk
 
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
