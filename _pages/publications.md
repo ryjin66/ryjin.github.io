@@ -16,9 +16,11 @@ author_profile: true
 {% endfor %}
 
 -->
-## Preprint
-1. [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372)
-2. [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811)
+## Preprints and Working Papers
+1. [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372) Under revirew.
+2. [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) Under review.
+3. Wu, Z., Jin, R., Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
+4. Jin, R., Gao, S., Leveraging the Power of Coordinate Update to Enable Zeroth-Order Optimization with Improved Performance. Writing in progress.
 
 
 ## Journal Paper
