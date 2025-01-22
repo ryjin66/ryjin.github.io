@@ -17,21 +17,21 @@ author_profile: true
 
 -->
 ## Preprints and Working Papers
-1. [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372) Under revirew.
-2. [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) Under review.
-3. Wu, Z., Jin, R., Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
-4. Jin, R., Gao, S., Leveraging the Power of Coordinate Update to Enable Zeroth-Order Optimization with Improved Performance. Writing in progress.
+* [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372) Under revirew.
+* Wu, Z., Jin, R., Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
+* Jin, R., Gao, S., Leveraging Coordinate Updates to Improve the Performance of Zeroth-Order Optimization. Writing in progress.
 
 
 ## Journal Paper
-1. [Jin, R., Zhou, Y., Lu, C., & Song, J. (2022). Deep reinforcement learning-based strategy for charging station participating in demand response. Applied Energy, 328, 120140.](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
-2. [Wang, P., Wang, J., Jin, R., Li, G., Zhou, M., & Xia, Q. (2022). Integrating biogas in regional energy systems to achieve near-zero carbon emissions. Applied Energy, 322, 119515.](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
-3. [Zhang, T., Wang, J., Wang, H., Ruiyang, J., Li, G., & Zhou, M. (2022). On the coordination of transmission-distribution grids: A dynamic feasible region method. IEEE Transactions on Power Systems, 38(2), 1855-1866.](https://ieeexplore.ieee.org/abstract/document/9852714?casa_token=gfCtJmKDqSEAAAAA:7OrqfopSEH54R2bKU7mHI0wIV1EmmvKLfRnKuemgwrHRzdc_fkxcYk3vpPKUk8fyVgCSV4Y)
-4. [Jin, R., Lu, C., & Song, J. (2020). Manage distributed energy storage charging and discharging strategy: Models and algorithms. IEEE Transactions on Engineering Management, 69(3), 755-764.](https://ieeexplore.ieee.org/abstract/document/9160967?casa_token=x7UGOYnuYtoAAAAA:HWLlTMT5ucoiLkCO8OCMJHTAvxJH-faN7KAmnXFhcVxXNYtdJi65qXvmmsZ_IRFuIJxbFe0)
-5. [Jin, R., Song, J., Liu, J., Li, W., & Lu, C. (2020). Location and capacity optimization of distributed energy storage system in peak-shaving. Energies, 13(3), 513.](https://www.mdpi.com/1996-1073/13/3/513)
+* [Jin, R., Zhou, Y., Lu, C., & Song, J. (2022). Deep reinforcement learning-based strategy for charging station participating in demand response. Applied Energy, 328, 120140.](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
+* [Wang, P., Wang, J., Jin, R., Li, G., Zhou, M., & Xia, Q. (2022). Integrating biogas in regional energy systems to achieve near-zero carbon emissions. Applied Energy, 322, 119515.](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
+* [Zhang, T., Wang, J., Wang, H., Jin R., Li, G., & Zhou, M. (2022). On the coordination of transmission-distribution grids: A dynamic feasible region method. IEEE Transactions on Power Systems, 38(2), 1855-1866.](https://ieeexplore.ieee.org/abstract/document/9852714?casa_token=gfCtJmKDqSEAAAAA:7OrqfopSEH54R2bKU7mHI0wIV1EmmvKLfRnKuemgwrHRzdc_fkxcYk3vpPKUk8fyVgCSV4Y)
+* [Jin, R., Lu, C., & Song, J. (2020). Manage distributed energy storage charging and discharging strategy: Models and algorithms. IEEE Transactions on Engineering Management, 69(3), 755-764.](https://ieeexplore.ieee.org/abstract/document/9160967?casa_token=x7UGOYnuYtoAAAAA:HWLlTMT5ucoiLkCO8OCMJHTAvxJH-faN7KAmnXFhcVxXNYtdJi65qXvmmsZ_IRFuIJxbFe0)
+* [Jin, R., Song, J., Liu, J., Li, W., & Lu, C. (2020). Location and capacity optimization of distributed energy storage system in peak-shaving. Energies, 13(3), 513.](https://www.mdpi.com/1996-1073/13/3/513)
 
 
 ## Conference Proceeding
-1. [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
-2. Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
-3. [Zhou, Y., Jin, R., & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) (pp. 916-921). IEEE.](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
+* [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) Accepted by AISTATS 2025.
+* [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
+* Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
+* [Zhou, Y., Jin, R., & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) (pp. 916-921). IEEE.](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
