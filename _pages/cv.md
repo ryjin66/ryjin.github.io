@@ -11,15 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.E. in Aerospace Engineering, Peking University, 2019
-* Ph.D in Management Science and Engineering, Peking University, 2024
+* Ph.D in Management Science and Engineering, Peking University, 2019-2024
+* Visiting scholar, California Institute of Technology, Dec. 2022-Dec. 2023
+* B.E. in Aerospace Engineering, Peking University, 2015-2019
 
 Work experience
 ======
-* Dec. 2022-Dec. 2023: Visiting scholar
-  * California Institute of Technology 
-
-* Sep. 2024-Jul. 2025: Postdoc fellow
+* Sep. 2024-Now: Postdoc fellow
   * City University of Hong Kong
   
 <!--
@@ -50,6 +48,6 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for Applied Energy, IEEE Transactions on Engineering Management
-* IEEE student member
+* Reviewer for Applied Energy, IEEE TEM, IEEE TASE, APJOR, etc.
+* IEEE member, Informs member
 * Chairman of the Chinese calligraphy and painting association of PKU in 2019
