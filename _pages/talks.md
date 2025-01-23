@@ -19,6 +19,8 @@ author_profile: true
 
 
 ## Invited Talks
-1. Decentralized Zeroth-order Algorithms for Distributed Energy Systems, Group Intelligence Seminar, 2023
-2. Reinforcement Learning and Its Application for Demand Response, PKU, 2021
-3. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. IEEE PES General Meeting, 2021
+* Randomized Zeroth-Order Feedback-Based Coordinate Descent Algorithm for Simulation-Embedded Problems, INFORMS Annual Meeting, 2024
+* Approximate Global Convergence of Independent Learning in Multi-Agent Systems, SCIS Salon on Frontiers of Information Science and Technology, 2024
+* Decentralized Zeroth-order Algorithms for Distributed Energy Systems, Group Intelligence Seminar, 2023
+* Reinforcement Learning and Its Application for Demand Response, PKU, 2021
+* Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. IEEE PES General Meeting, 2021
