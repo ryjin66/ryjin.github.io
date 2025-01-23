@@ -32,6 +32,6 @@ author_profile: true
 
 ## Conference Proceeding
 * [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) Accepted by AISTATS 2025.
-* [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
-* Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
 * [Zhou, Y., Jin, R., & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) (pp. 916-921). IEEE.](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
+* Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
+* [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
