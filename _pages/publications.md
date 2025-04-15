@@ -19,7 +19,9 @@ author_profile: true
 ## Preprints and Working Papers
 * [Jin, R., Tang, Y., & Song, J. (2023). Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372.](https://arxiv.org/abs/2311.00372) Under revirew.
 * Wu, Z., Jin, R., Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
-* Jin, R., Gao, S., Leveraging Coordinate Updates to Improve the Performance of Zeroth-Order Optimization. Writing in progress.
+* Jin, R., Tang, Y., Song, J., Gao, S., Leveraging Coordinate Updates to Improve the Performance of Zeroth-Order Optimization. Under review.
+* Jin, R., Gao, S., Gradient-Based Simulation Optimization for Constrained Problems. Writing in progress.
+* Zhou, Y., Jin, R., Gao, S., Wang, J., Song, J., On the Conergence Rate of Zeroth-Order Coordinate Extra-Gradient for Constrained Problems. Writing in progress.
 
 
 ## Journal Paper
