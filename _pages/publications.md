@@ -21,7 +21,7 @@ author_profile: true
 * Wu, Z., Jin, R., Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
 * Jin, R., Tang, Y., Song, J., Gao, S., Leveraging Coordinate Updates to Improve the Performance of Zeroth-Order Optimization. Under review.
 * Jin, R., Gao, S., Gradient-Based Simulation Optimization for Constrained Problems. Writing in progress.
-* Zhou, Y., Jin, R., Gao, S., Wang, J., Song, J., On the Conergence Rate of Zeroth-Order Coordinate Extra-Gradient for Constrained Problems. Writing in progress.
+* Zhou, Y., Jin, R., Gao, S., Wang, J., Song, J., On the Convergence Rate of Zeroth-Order Coordinate Extra-Gradient for Constrained Problems. Writing in progress.
 
 
 ## Journal Paper
@@ -33,7 +33,7 @@ author_profile: true
 
 
 ## Conference Proceeding
-* [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) Accepted by AISTATS 2025.
+* [Jin, R., Chen, Z., Lin, Y., Song, J., Wierman, A. (2024). Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems. arXiv preprint arXiv:2405.19811](https://arxiv.org/abs/2405.19811) The 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 * [Zhou, Y., Jin, R., & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) (pp. 916-921). IEEE.](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
 * Jin R, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
 * [Jin, R., Lu, Y., Wang, Y., & Song, J. (2020, August). The Short-Term Power Consumption Forecasting Based on the Portrait of Substation Areas. In 2020 IEEE International Conference on Knowledge Graph (ICKG) (pp. 649-653). IEEE.](https://ieeexplore.ieee.org/document/9194534)
