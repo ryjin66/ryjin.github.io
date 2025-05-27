@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](./files/Ruiayng Jin-CV.pdf)
+Here is my [CV](https://github.com/ryjin66/ryjin.github.io/raw/master/files/Ruiyang Jin-CV.pdf)
 
 Education
 ======
