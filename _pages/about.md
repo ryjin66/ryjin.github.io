@@ -14,6 +14,11 @@ I am currently a postdoctoral fellow in the Department of Systems Engineering at
 My research interests lie in the **modeling and optimization of complex systems**, especially in designing efficient learning and optimization algorithms. The techniques mainly include zeroth-order optimization, reinforcement learning, and simulation-based optimization. The applications include demand side management, renewable energy integration, and energy storage planning & operation in low-carbon energy systems.
 
 ## Contact Me
-Email: ruiyajin [at] cityu.edu.hk
+Email: ruiyajin [at] cityu [dot] edu [dot] hk
 
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
+
+## News
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-01]</span> Our paper "Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems" was accepted to AISTATS 2025. See you in Mai Khao!
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2024-10]</span> I will give a talk titled "Randomized Zeroth-Order Feedback-Based Coordinate Descent Algorithm for Simulation-Embedded Problems" at the 2024 Informs Annual Meeting.
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2024-09]</span> I joined CityU as a postdoctoral fellow.
