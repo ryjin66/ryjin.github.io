@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my [CV](./files/Ruiayng Jin-CV.pdf)
+
 Education
 ======
 * Ph.D in Management Science and Engineering, Peking University, 2019-2024
