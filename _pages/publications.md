@@ -34,6 +34,7 @@ author_profile: true
 
 
 ## Conference Proceeding
+* Zhou, Y., **Jin, R.**, Wang, J., Song. (2025). Zeroth-Order Extra-Gradient Method for Constrained Convex Optimization. <i>Accepted to CDC 2025.</i>
 * **Jin, R.**, Chen, Z., Lin, Y., Song, J. &amp; Wierman, A.. (2025). Approximate Global Convergence of Independent Learning in Multi-Agent Systems. <i>Proceedings of The 28th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 258:2818-2826 [[Paper]](https://proceedings.mlr.press/v258/jin25a.html)
 * Zhou, Y., **Jin, R.**, & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. <i>In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)</i> (pp. 916-921). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
 * **Jin, R.**, Lu C, Song J. Deep Reinforcement Learning-based Strategy for Charging Station Participating in Demand Response. 2021 IEEE PES General Meeting, oral speech.
