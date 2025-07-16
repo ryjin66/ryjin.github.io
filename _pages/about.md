@@ -19,6 +19,7 @@ Email: ruiyajin [at] cityu [dot] edu [dot] hk
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
 
 ## News
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-07]</span> Our paper "Zeroth-Order Extra-Gradient Method for Constrained Convex Optimization" was accepted to CDC 2025.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-06]</span> Our new paper "[A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization](https://arxiv.org/abs/2506.20546)" is now available on arXiv.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-01]</span> Our paper "[Approximate Global Convergence of Independent Natural Actor-Critic in Multi-Agent Systems](https://arxiv.org/abs/2405.19811)" was accepted to AISTATS 2025. See you in Mai Khao!
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2024-10]</span> I will give a talk titled "Randomized Zeroth-Order Feedback-Based Coordinate Descent Algorithm for Simulation-Embedded Problems" at the 2024 Informs Annual Meeting.
