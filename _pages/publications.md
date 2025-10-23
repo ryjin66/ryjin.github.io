@@ -19,13 +19,13 @@ author_profile: true
 ## Preprints and Working Papers
 * **Jin, R.**, Tang, Y., & Song, J., Zeroth-Order Feedback-Based Optimization for Distributed Demand Response. arXiv preprint arXiv:2311.00372. Under review. [[Paper]](https://arxiv.org/abs/2311.00372)
 * Wu, Z., **Jin, R.**, Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
-* **Jin, R.**, Tang, Y., Song, J., Gao, S., Leveraging Coordinate Updates to Improve the Performance of Zeroth-Order Optimization. Under review.
+* **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Optimization. Under review. [[Paper]](https://arxiv.org/abs/2510.19165)
 * Zhou, Y., **Jin, R.**, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. Under review. [[Paper]](https://arxiv.org/abs/2506.20546)
 * **Jin, R.**, Gao, S., Gradient-Based Simulation Optimization for Constrained Problems. Writing in progress.
 
 
 ## Journal Paper
-* Wang, R., **Jin, R.**, & Song, J. (2025). Localized Multi-Agent Reinforcement Learning for Cooperative Management of Supply Chains. Accepted to APJOR.
+* Wang, R., **Jin, R.**, & Song, J. (2025). Localized Multi-Agent Reinforcement Learning for Cooperative Management of Supply Chains. Asia-Pacific Journal of Operational Research, 2540010. [[Paper]](https://www.worldscientific.com/doi/abs/10.1142/S021759592540010X?casa_token=nYlqxBFQjqUAAAAA:YidQ_0PiMBa0wuAhOIv_t7csk6dCDGBsN4LKCXsMCcMVEWxkH2L6dAI1Y5FrmcI8sm4v1OJL8bnB)
 * **Jin, R.**, Zhou, Y., Lu, C., & Song, J. (2022). Deep reinforcement learning-based strategy for charging station participating in demand response. Applied Energy, 328, 120140. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
 * Wang, P., Wang, J., **Jin, R.**, Li, G., Zhou, M., & Xia, Q. (2022). Integrating biogas in regional energy systems to achieve near-zero carbon emissions. Applied Energy, 322, 119515. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
 * Zhang, T., Wang, J., Wang, H., **Jin, R.**, Li, G., & Zhou, M. (2022). On the coordination of transmission-distribution grids: A dynamic feasible region method. IEEE Transactions on Power Systems, 38(2), 1855-1866. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9852714?casa_token=gfCtJmKDqSEAAAAA:7OrqfopSEH54R2bKU7mHI0wIV1EmmvKLfRnKuemgwrHRzdc_fkxcYk3vpPKUk8fyVgCSV4Y)
