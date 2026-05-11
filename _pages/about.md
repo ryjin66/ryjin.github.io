@@ -11,7 +11,8 @@ redirect_from:
 I am currently a postdoctoral fellow in the Department of Systems Engineering at the [City University of Hong Kong](https://www.cityu.edu.hk/), and I am working with [Prof. Siyang Gao](https://www.cityu.edu.hk/stfprofile/siyangao.htm). Before that, I got my Ph.D. in Management Science and Engineering in the Department of Industrial Engineering and Management at [Peking University](https://english.pku.edu.cn/) (PKU) and was advised by [Prof. Jie Song](http://www2.coe.pku.edu.cn/faculty/songjie/indexen.html). I also got my B.E. degree in Aerospace Engineering at PKU in 2019. I visited CMS (Computing and Mathematical Sciences) at California Institute of Technology as a visiting scholar (Dec. 2022 - Dec. 2023) and was advised by [Prof. Adam Wierman](https://adamwierman.com/).
 
 ## Research Area
-My research interests lie in the **modeling and optimization of complex systems**, especially in designing efficient learning and optimization algorithms. The techniques mainly include zeroth-order optimization, reinforcement learning, and simulation-based optimization. The applications include demand-side management, renewable energy integration, and energy storage planning & operation in low-carbon energy systems.
+My research lies at the intersection of **optimization** and **artificial intelligence (AI)** for complex, data-driven systems. I aim to develop efficient, theoretically grounded algorithms by integrating tools from optimization, data science, and AI, with a particular emphasis on *reinforcement learning, zeroth-order optimization, deep learning, and simulation-based optimization*. My work is motivated by real-world operational challenges, with primary applications in demand-side management for low-carbon energy systems and supply chain operations.
+
 
 ## Contact Me
 Email: syeruiyajin [at] cityu [dot] edu [dot] hk
