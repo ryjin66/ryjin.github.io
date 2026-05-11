@@ -17,14 +17,17 @@ author_profile: true
 
 -->
 ## Preprints and Working Papers
-* Wu, Z., **Jin, R.**, Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. Under review.
-* **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Constrained Optimization. Under review. [[Paper]](https://arxiv.org/abs/2510.19165)
-* Zhou, Y., **Jin, R.**, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. Under review. [[Paper]](https://arxiv.org/abs/2506.20546)
-* **Jin, R.**, Gao, S., A Min-Max Gradient Search Method for Constrained Simulation Optimization. Writing in progress.
+* Wu, Z., **Jin, R.**, Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. *Under review*.
+* **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Constrained Optimization. *Major revision at Informs Journal on Computing*. [[Paper]](https://arxiv.org/abs/2510.19165)
+* Zhou, Y., **Jin, R.\***, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. *Major revision at Automatica*. [[Paper]](https://arxiv.org/abs/2506.20546)
+* Jin R., Zhou Y., Zhang F., **Jin R.\***, Gao S., From Data to Decisions: ICNN-Based Convex Optimization for Distributed Energy Management. *Major revision at Computers and Operations Research*.
+* **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review*.
+* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: Toward the Integration of Artificial Intelligence and Operations Research. *Writing in progress*.
+* **Jin R.**, Gao S., Behavioral Common Random Numbers for Gradient Estimation in LLM-Embedded Simulation. *Writing in progress*.
 
 
-## Journal Paper
-* **Jin, R.**, Tang, Y., & Song, J. (2026). Zeroth-Order Feedback-Based Optimization for Distributed Energy Management. *European Journal of Operational Research*. arXiv version: [[Paper]](https://arxiv.org/abs/2311.00372)
+## Journal Papers
+* **Jin, R.**, Tang, Y., & Song, J. (2026). Zeroth-Order Feedback-Based Optimization for Distributed Energy Management. *European Journal of Operational Research*. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221726000500?casa_token=1Uehk3pvko8AAAAA:Ahxzp63z80zyq5RzPXGHg6a-xzsuh_2jYc9oYW6gPyvjMYs0zmowQIeaVV60onVCoipLgWsr)
 * Wang, R., **Jin, R.\***, & Song, J. (2025). Localized Multi-Agent Reinforcement Learning for Cooperative Management of Supply Chains. *Asia-Pacific Journal of Operational Research*, 2540010. [[Paper]](https://www.worldscientific.com/doi/abs/10.1142/S021759592540010X?casa_token=nYlqxBFQjqUAAAAA:YidQ_0PiMBa0wuAhOIv_t7csk6dCDGBsN4LKCXsMCcMVEWxkH2L6dAI1Y5FrmcI8sm4v1OJL8bnB)
 * **Jin, R.**, Zhou, Y., Lu, C., & Song, J. (2022). Deep Reinforcement Learning-Based Strategy for Charging Station Participating in Demand Response. *Applied Energy*, 328, 120140. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
 * Wang, P., Wang, J., **Jin, R.**, Li, G., Zhou, M., & Xia, Q. (2022). Integrating Biogas in Regional Energy Systems to Achieve Near-Zero Carbon Emissions. *Applied Energy*, 322, 119515. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306261922008364)
@@ -33,7 +36,7 @@ author_profile: true
 * **Jin, R.**, Song, J., Liu, J., Li, W., & Lu, C. (2020). Location and Capacity Optimization of Distributed Energy Storage System in Peak-Shaving. *Energies*, 13(3), 513. [[Paper]](https://www.mdpi.com/1996-1073/13/3/513)
 
 
-## Conference Proceeding
+## Conference Proceedings
 * Zhou, Y., **Jin, R.\***, Wang, J., & Song, J. (2025, December). Zeroth-Order Extra-Gradient Method for Constrained Convex Optimization. <i>In 2025 IEEE 64th Conference on Decision and Control (CDC)</i> (pp. 567-572). IEEE. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11312674&casa_token=nW9nEesyGp4AAAAA:NvbCQSTvfTk0Ywl4r1USGKp-1Yu_vLb8RhVihs2ya12NHRL1dT42odm8UdnWVnsiKih98hpXhQ&tag=1)
 * **Jin, R.**, Chen, Z., Lin, Y., Song, J. &amp; Wierman, A.. (2025). Approximate Global Convergence of Independent Learning in Multi-Agent Systems. <i>Proceedings of The 28th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 258:2818-2826 [[Paper]](https://proceedings.mlr.press/v258/jin25a.html)
 * Zhou, Y., **Jin, R.**, & Song, J. (2022, July). An Online Learning Method for Industrial Demand Response Based on Load Disaggregation. <i>In 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)</i> (pp. 916-921). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9949833?casa_token=4Heu5o8irX4AAAAA:swNwIuRJ_dmPuwYu0lKnjMhj2BqnlkhZbB1yF4F1_whPGQ98RYJA_QejkwtGMylu0e4NRIc)
