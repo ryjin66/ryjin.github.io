@@ -1,4 +1,4 @@
-<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/3911eab0-91fc-4753-ad3f-eb49bd02d8e9" />---
+---
 permalink: /
 title: " "
 excerpt: "About me"
