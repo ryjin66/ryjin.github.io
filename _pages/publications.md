@@ -18,11 +18,11 @@ author_profile: true
 -->
 ## Preprints and Working Papers
 * Wu, Z., **Jin, R.**, Lin J., Song, J., He, G., Zeroth-Order Optimization for Energy Storage Management with Black-Box Degradation Model. *Under review*.
-* **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Constrained Optimization. *Major revision at Informs Journal on Computing*. [[Paper]](https://arxiv.org/abs/2510.19165)
-* Zhou, Y., **Jin, R.\***, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. *Major revision at Automatica*. [[Paper]](https://arxiv.org/abs/2506.20546)
-* Jin R., Zhou Y., Zhang F., **Jin R.\***, Gao S., From Data to Decisions: ICNN-Based Convex Optimization for Distributed Energy Management. *Major revision at Computers and Operations Research*.
-* **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review*.
-* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: Toward the Integration of Artificial Intelligence and Operations Research. *Writing in progress*.
+* **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Constrained Optimization. *Major revision at INFORMS Journal on Computing*. [[Paper]](https://arxiv.org/abs/2510.19165)
+* Zhou, Y., **Jin, R.\***, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. *Under revision at Automatica*. [[Paper]](https://arxiv.org/abs/2506.20546)
+* Jin R., Zhou Y., Zhang F., **Jin R.\***, Gao S., From Data to Decisions: ICNN-Based Convex Optimization for Distributed Energy Management. *Under revision at Computers and Operations Research*.
+* **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review at INFORMS Journal on Computing*.
+* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: Toward the Integration of Artificial Intelligence and Operations Research. *Under review*.
 * **Jin R.**, Gao S., Behavioral Common Random Numbers for Gradient Estimation in LLM-Embedded Simulation. *Writing in progress*.
 
 
