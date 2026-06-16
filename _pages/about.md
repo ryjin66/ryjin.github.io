@@ -1,4 +1,4 @@
----
+<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/3911eab0-91fc-4753-ad3f-eb49bd02d8e9" />---
 permalink: /
 title: " "
 excerpt: "About me"
@@ -20,6 +20,9 @@ Email: syeruiyajin [at] cityu [dot] edu [dot] hk
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
 
 ## News
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-06]</span> Our new paper "[A Min-Max Gradient Search Method for Constrained Simulation Optimization](https://arxiv.org/pdf/2606.07029)" is now available on arXiv.
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-05]</span> I will give a talk titled "Query-Efficient Zeroth-Order Algorithms for Distributed Energy Management" in ICSS 2026, Hangzhou.
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-01]</span> I will give a talk titled "Query-Efficient Zeroth-Order Algorithms for Black-Box Constrained Problems" at the Academy of Mathematics and Systems Science.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-01]</span> Our paper "Zeroth-Order Feedback-Based Optimization for Distributed Energy Management" was accepted to EJOR.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-10]</span> Our new paper "[Query-Efficient Zeroth-Order Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2510.19165)" is now available on arXiv.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2025-07]</span> Our paper "Zeroth-Order Extra-Gradient Method for Constrained Convex Optimization" was accepted to CDC 2025. See you in Rio de Janeiro!
