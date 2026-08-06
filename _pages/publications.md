@@ -22,7 +22,7 @@ author_profile: true
 * Zhou, Y., **Jin, R.\***, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. *Under revision at Automatica*. [[Paper]](https://arxiv.org/abs/2506.20546)
 * Jin R., Zhou Y., Zhang F., **Jin R.\***, Gao S., From Data to Decisions: ICNN-Based Convex Optimization for Distributed Energy Management. *Under revision at Computers and Operations Research*.
 * **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review at INFORMS Journal on Computing*.
-* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: Toward the Integration of Artificial Intelligence and Operations Research. *Under review*.
+* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: An Optimization Engine for Frontier AI and Engineering Systems. *Under revision at Nexus*.
 * **Jin R.**, Gao S., Behavioral Common Random Numbers for Gradient Estimation in LLM-Embedded Simulation. *Writing in progress*.
 
 
