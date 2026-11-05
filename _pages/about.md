@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow in the Department of Systems Engineering at the [City University of Hong Kong](https://www.cityu.edu.hk/), and I am working with [Prof. Siyang Gao](https://www.cityu.edu.hk/stfprofile/siyangao.htm). Before that, I got my Ph.D. in Management Science and Engineering in the Department of Industrial Engineering and Management at [Peking University](https://english.pku.edu.cn/) (PKU) and was advised by [Prof. Jie Song](http://www2.coe.pku.edu.cn/faculty/songjie/indexen.html). I also got my B.E. degree in Aerospace Engineering at PKU in 2019. I visited CMS (Computing and Mathematical Sciences) at California Institute of Technology as a visiting scholar (Dec. 2022 - Dec. 2023) and was advised by [Prof. Adam Wierman](https://adamwierman.com/).
+I am currently a postdoctoral fellow in the Department of Systems Engineering at [City University of Hong Kong](https://www.cityu.edu.hk/), where I work with [Prof. Siyang Gao](https://www.cityu.edu.hk/stfprofile/siyangao.htm). I received my Ph.D. in Management Science and Engineering from the Department of Industrial Engineering and Management at [Peking University](https://english.pku.edu.cn/) (PKU), under the supervision of [Prof. Jie Song](http://www2.coe.pku.edu.cn/faculty/songjie/indexen.html). I also earned my B.E. in Aerospace Engineering from PKU in 2019. From December 2022 to December 2023, I was a visiting scholar in Computing and Mathematical Sciences (CMS) at the California Institute of Technology (Caltech), where I worked with [Prof. Adam Wierman](https://adamwierman.com/).
 
 ## Research Area
 My research lies at the intersection of **optimization** and **artificial intelligence (AI)** for complex, data-driven systems. I aim to develop efficient, theoretically grounded algorithms by integrating tools from optimization, data science, and AI, with a particular emphasis on *reinforcement learning, zeroth-order optimization, deep learning, and simulation-based optimization*. My work is motivated by real-world operational challenges, with primary applications in demand-side management for low-carbon energy systems and supply chain operations.
 
 
 ## Contact Me
-Email: syeruiyajin [at] cityu [dot] edu [dot] hk
+Email: ruiyajin [at] cityu [dot] edu [dot] hk
 
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
 
