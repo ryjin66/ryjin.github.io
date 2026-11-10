@@ -21,12 +21,13 @@ author_profile: true
 * **Jin, R.**, Zhou, Y., Tang, Y., Song, J., Gao, S., Query-Efficient Zeroth-Order Algorithms for Nonconvex Constrained Optimization. *Major revision at INFORMS Journal on Computing*. [[Paper]](https://arxiv.org/abs/2510.19165)
 * Zhou, Y., **Jin, R.\***, Gao, S., Wang, J., Song, J., A Zeroth-Order Extra-Gradient for Black-Box Constrained Optimization. *Under revision at Automatica*. [[Paper]](https://arxiv.org/abs/2506.20546)
 * Jin R., Zhou Y., Zhang F., **Jin R.\***, Gao S., From Data to Decisions: ICNN-Based Convex Optimization for Distributed Energy Management. *Under revision at Computers and Operations Research*.
-* **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review at INFORMS Journal on Computing*.
-* **Jin R.**, Wang J., Gao S., et al., Derivative-Free Optimization: An Optimization Engine for Frontier AI and Engineering Systems. *Under revision at Nexus*.
-* **Jin R.**, Gao S., Behavioral Common Random Numbers for Gradient Estimation in LLM-Embedded Simulation. *Writing in progress*.
+* **Jin, R.**, Gao, S., Lam H., A Min-Max Gradient Search Method for Constrained Simulation Optimization. *Under review at INFORMS Journal on Computing*. [[Paper]](https://arxiv.org/pdf/2606.07029)
+* **Jin R.**, Gao S., Gradient Estimation for LLM-Embedded Simulation Optimization. *Submitted*. [[Paper]](https://arxiv.org/abs/2611.10809)
+* **Jin R.**, Gao S., Optimization under Agent-Generated Model Uncertainty. *Writing in progress*.
 
 
 ## Journal Papers
+* **Jin R.**, Wang J., Gao S., et al. (2026), Derivative-Free Optimization: An Optimization Engine for Frontier AI and Engineering Systems. *Accepted to Nexus*.
 * **Jin, R.**, Tang, Y., & Song, J. (2026). Zeroth-Order Feedback-Based Optimization for Distributed Energy Management. *European Journal of Operational Research*. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221726000500?casa_token=1Uehk3pvko8AAAAA:Ahxzp63z80zyq5RzPXGHg6a-xzsuh_2jYc9oYW6gPyvjMYs0zmowQIeaVV60onVCoipLgWsr)
 * Wang, R., **Jin, R.\***, & Song, J. (2025). Localized Multi-Agent Reinforcement Learning for Cooperative Management of Supply Chains. *Asia-Pacific Journal of Operational Research*, 2540010. [[Paper]](https://www.worldscientific.com/doi/abs/10.1142/S021759592540010X?casa_token=nYlqxBFQjqUAAAAA:YidQ_0PiMBa0wuAhOIv_t7csk6dCDGBsN4LKCXsMCcMVEWxkH2L6dAI1Y5FrmcI8sm4v1OJL8bnB)
 * **Jin, R.**, Zhou, Y., Lu, C., & Song, J. (2022). Deep Reinforcement Learning-Based Strategy for Charging Station Participating in Demand Response. *Applied Energy*, 328, 120140. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306261922013976?casa_token=L57P-gkEyQQAAAAA:0MT07F7KBw0nD44qovmA3ttw67dHqLZHuOBfTe-Bbb7U_-yxckeVjWS9TxLxAZLJMqYOef5M)
