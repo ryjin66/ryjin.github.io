@@ -20,6 +20,7 @@ Email: ruiyajin [at] cityu [dot] edu [dot] hk
 Address: P7505, Yeung Kin Man Academic Bldg, CityU
 
 ## News
+* <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-11]</span> Our new paper "[Gradient Estimation for LLM-Embedded Simulation Optimization](https://arxiv.org/abs/2611.10809)" is now available on arXiv.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-10]</span> Our review paper "Derivative-Free Optimization: An Optimization  Engine for Frontier Artificial Intelligence and Engineering Systems" was accepted to Nexus, which is coming soon.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-06]</span> Our new paper "[A Min-Max Gradient Search Method for Constrained Simulation Optimization](https://arxiv.org/pdf/2606.07029)" is now available on arXiv.
 * <span style="font-family: Arial; font-size: 16px; color: blue;">[2026-05]</span> I will give a talk titled "Query-Efficient Zeroth-Order Algorithms for Distributed Energy Management" at ICSS 2026, Hangzhou.
